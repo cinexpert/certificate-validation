@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="CinexpertCertificateValidation">
+    <description>
+        PSR12 style guide
+    </description>
+    <rule ref="PSR12" />
+</ruleset>
